@@ -16,7 +16,11 @@
 
 <div align="center">
 
-![ADBC Drivers Logo](./logo.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./logo-black.svg">
+  <img alt="ADBC Drivers Logo" src="./logo.svg">
+</picture>
 
 </div>
 
