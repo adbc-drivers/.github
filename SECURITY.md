@@ -16,5 +16,6 @@
 
 # Security Policy
 
-Please report vulnerabilities to
+Please report undisclosed vulnerabilities to
 [security@adbc-drivers.org](mailto:security@adbc-drivers.org).
+This is a private mailing list.
