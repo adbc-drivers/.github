@@ -24,7 +24,7 @@
 
 </div>
 
-The [ADBC Driver Foundry](https://adbc-drivers.org) is home to various
+<br>The [ADBC Driver Foundry](https://adbc-drivers.org) is home to various
 projects based on [Apache Arrow
 ADBC](https://arrow.apache.org/adbc/current/index.html).
 
