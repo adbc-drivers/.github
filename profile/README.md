@@ -30,3 +30,5 @@ ADBC](https://arrow.apache.org/adbc/current/index.html).
 
 Software in this organization is released under the [Apache
 License](https://www.apache.org/licenses/LICENSE-2.0).
+
+If you have any questions or want more information, please feel free to start a [Discussion](https://github.com/orgs/adbc-drivers/discussions) here on GitHub or join the [Columnar Community Slack](https://join.slack.com/t/columnar-community/shared_invite/zt-3gt5cb69i-KRjJj~mjUZv5doVmpcVa4w).
